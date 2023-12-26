@@ -1,21 +1,12 @@
-# DataCamp: Predictive Modeling for Agriculture
+# This repo contains projects completed on DataCamp
 
-# Sowing Success: How Machine Learning Helps Farmers Select the Best Crops
 
-![Farmer in a field](farmer_in_a_field.jpg)
+## 1. Predictive Modeling for Agriculture
+### Dive into agriculture using supervised machine learning and feature selection to aid farmers in crop cultivation and solve real-world problems. 
+A farmer reached out to you as a machine learning expert seeking help to select the best crop for his field. Due to budget constraints, the farmer explained that he could only afford to measure two out of the four essential soil measures: Nitrogen, Phosphorous, Potassium and pH
 
-Measuring essential soil metrics such as nitrogen, phosphorous, potassium levels, and pH value is an important aspect of assessing soil condition. However, it can be an expensive and time-consuming process, which can cause farmers to prioritize which metrics to measure based on their budget constraints.
-
-Farmers have various options when it comes to deciding which crop to plant each season. Their primary objective is to maximize the yield of their crops, taking into account different factors. One crucial factor that affects crop growth is the condition of the soil in the field, which can be assessed by measuring basic elements such as nitrogen and potassium levels. Each crop has an ideal soil condition that ensures optimal growth and maximum yield.
-
-A farmer reached out to you as a machine learning expert for assistance in selecting the best crop for his field. They've provided you with a dataset called `soil_measures.csv`, which contains:
-
-- `"N"`: Nitrogen content ratio in the soil
-- `"P"`: Phosphorous content ratio in the soil
-- `"K"`: Potassium content ratio in the soil
-- `"pH"` value of the soil
-- `"crop"`: categorical values that contain various crops (target variable).
-
-Each row in this dataset represents various measures of the soil in a particular field. Based on these measurements, the crop specified in the `"crop"` column is the optimal choice for that field.  
-
-In this project, you will apply machine learning to build a multi-class classification model to predict the type of `"crop"`, while using techniques to avoid multicollinearity, which is a concept where two or more features are highly correlated.
+The expert realized that this is a classic feature selection problem, where the objective is to pick the most important features that could help predict the crop accurately. Can you help him?
+- **Project Tasks**: In this project, you will be introduced to two techniques for feature selection and apply them to the farmer's problem. By working on this project, you will gain valuable insights into how machine learning can solve real-world agricultural problems.
+## 2. Arctic Penguin Exploration: Unraveling Clusters in the Icy Domain with K-means Clustering
+Unsupervised learning is a critical task in machine learning, and it plays a significant role in this project. The objective is to delve into the information about penguins by utilizing unsupervised learning techniques on a thoughtfully curated dataset. By conducting thorough data exploration, extracting meaningful features, and employing advanced algorithms, this project aims to uncover concealed patterns, clusters, and relationships that exist within the dataset.
+- **Project Tasks**: Perform unsupervised learning techniques to cluster Antarctic penguin species!
