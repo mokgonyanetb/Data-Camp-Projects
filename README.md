@@ -9,7 +9,7 @@ Well, let's find out! What characteristics do the prize winners have? Which coun
 The [dataset](https://www.kaggle.com/nobelfoundation/nobel-laureates) used in this project is from The Nobel Foundation on Kaggle.
 - **Project Tasks**: In this project, you will use your data manipulation and visualization skills to explore patterns and trends over 100 years worth of Nobel Prize winners.
 
-## 2. [The Android App Market on Google Play]()
+## 2. [The Android App Market on Google Play](https://github.com/mokgonyanetb/Data-Camp-Projects/tree/visualization/The%20Android%20App%20Market%20on%20Google%20Play)
 #### Load, clean, and visualize scraped Google Play Store data to gain insights into the Android app market.
 Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. In this project, you will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. You'll look for insights in the data to devise strategies to drive growth and retention. The [data](https://www.kaggle.com/lava18/google-play-store-apps) for this project was scraped from the [Google Play](https://play.google.com/store/apps?hl=en) website. While there are many popular datasets for Apple App Store, there aren't many for Google Play apps, which is partially due to the increased difficulty in scraping the latter as compared to the former. The data files are as follows:
 - `apps.csv` : contains all the details of the apps on Google Play. These are the features that describe an app.
