@@ -1,6 +1,6 @@
 ## 1. Google Play Store apps and reviews
 <p>Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. In this notebook, we will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. We'll look for insights in the data to devise strategies to drive growth and retention.</p>
-![Google Logo](Google.png)
+![Alt text](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)
 <p>Let's take a look at the data, which consists of two files:</p>
 <ul>
 <li><code>apps.csv</code>: contains all the details of the applications on Google Play. There are 13 features that describe a given app.</li>
