@@ -9,6 +9,12 @@ Well, let's find out! What characteristics do the prize winners have? Which coun
 The [dataset](https://www.kaggle.com/nobelfoundation/nobel-laureates) used in this project is from The Nobel Foundation on Kaggle.
 - **Project Tasks**: In this project, you will use your data manipulation and visualization skills to explore patterns and trends over 100 years worth of Nobel Prize winners.
 
+## 2. [What and Where are the World's Oldest Businesses]()
+##### Use joining techniques to discover the oldest businesses in the world.
+An important part of business is planning for the future and ensuring that the business survives changing market conditions. Some businesses do this remarkably well and last for hundreds of years. In this project, you'll explore data from BusinessFinancing.co.uk on the world's oldest businesses: when were they founded, and which industries do they belong to?
+
+Like many business problems, the data we'll explore is contained in several different datasets. In order to understand the world's oldest businesses, we will first need to use joining techniques to merge our data. From there, we can use manipulation tools such as grouping and filtering to answer questions about these historic businesses.
+
 ## 2. [The Android App Market on Google Play](https://github.com/mokgonyanetb/Data-Camp-Projects/tree/visualization/The%20Android%20App%20Market%20on%20Google%20Play)
 #### Load, clean, and visualize scraped Google Play Store data to gain insights into the Android app market.
 Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. In this project, you will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. You'll look for insights in the data to devise strategies to drive growth and retention. The [data](https://www.kaggle.com/lava18/google-play-store-apps) for this project was scraped from the [Google Play](https://play.google.com/store/apps?hl=en) website. While there are many popular datasets for Apple App Store, there aren't many for Google Play apps, which is partially due to the increased difficulty in scraping the latter as compared to the former. The data files are as follows:
